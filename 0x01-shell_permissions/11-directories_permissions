@@ -1,2 +1,2 @@
-.*!/bin/bash
-.*hmod +x .
+#!/bin/bash
+chmod +x .*
